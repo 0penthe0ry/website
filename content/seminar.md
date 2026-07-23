@@ -26,13 +26,13 @@ Presentations can be:
 | **04** | Week 46 | [Nov 14, 2026](https://timeanddate.com/worldclock/fixedtime.html?msg=Open+Theory+Seminar+04&iso=20261114T1500) | TBA | TBA | - |
 | **05** | Week 48 | [Nov 28, 2026](https://timeanddate.com/worldclock/fixedtime.html?msg=Open+Theory+Seminar+05&iso=20261128T1500) | TBA | TBA | - |
 | **06** | Week 50 | [Dec 12, 2026](https://timeanddate.com/worldclock/fixedtime.html?msg=Open+Theory+Seminar+06&iso=20261212T1500) | TBA | TBA | - |
-| -- | Week 52 | Dec 16, 2026 | *Winter Break* | - | - | - |
+| -- | Week 52 | Dec 16, 2026 | *Winter Break* | - | - |
 | **07** | Week 02 | [Jan 9, 2027](https://timeanddate.com/worldclock/fixedtime.html?msg=Open+Theory+Seminar+07&iso=20270109T1500) | TBA | TBA | - |
 | **08** | Week 04 | [Jan 23, 2027](https://timeanddate.com/worldclock/fixedtime.html?msg=Open+Theory+Seminar+08&iso=20270123T1500) | TBA | TBA | | - |
 | **09** | Week 06 | [Feb 6, 2027](https://timeanddate.com/worldclock/fixedtime.html?msg=Open+Theory+Seminar+09&iso=20270206T1500) | TBA | TBA | - |
 | **10** | Week 08 | [Feb 20, 2027](https://timeanddate.com/worldclock/fixedtime.html?msg=Open+Theory+Seminar+10&iso=20270220T1500) | TBA | TBA | - |
-| **11** | Week 09 | [Mar 6, 2027](https://timeanddate.com/worldclock/fixedtime.html?msg=Open+Theory+Seminar+09&iso=20270306T1500) | TBA | TBA | - |
-| **12** | Week 010 | [Mar 20, 2027](https://timeanddate.com/worldclock/fixedtime.html?msg=Open+Theory+Seminar+10&iso=20270320T1500) | TBA | TBA | - |
+| **11** | Week 10 | [Mar 6, 2027](https://timeanddate.com/worldclock/fixedtime.html?msg=Open+Theory+Seminar+11&iso=20270306T1500) | TBA | TBA | - |
+| **12** | Week 12 | [Mar 20, 2027](https://timeanddate.com/worldclock/fixedtime.html?msg=Open+Theory+Seminar+12&iso=20270320T1500) | TBA | TBA | - |
 
 ## Claiming a slot
 
