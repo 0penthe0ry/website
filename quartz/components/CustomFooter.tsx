@@ -11,7 +11,7 @@ export default ((opts?: Options) => {
     const staticLinks = opts?.links ?? {}
 
     // Base settings for your repository
-    const repoUrl = "https://github.com/0penthe0ry/0penthe0ry.github.io"
+    const repoUrl = "https://github.com/0penthe0ry/website"
     const branch = "main"
 
     // Fallback logic to avoid linking empty paths on the index page
