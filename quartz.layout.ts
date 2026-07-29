@@ -21,7 +21,7 @@ export const sharedPageComponents: SharedLayout = {
   // Use your new custom component here!
   footer: Component.CustomFooter({
     links: {
-      "GitHub Organization": "https://github.com/0penthe0ry",
+      "GitHub": "https://github.com/0penthe0ry",
       "Discord Hub": "https://discord.gg/zgdNxqWAsj",
     },
   }),

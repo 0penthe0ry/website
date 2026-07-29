@@ -1,5 +1,5 @@
 ---
-title: Open Theory
+title: About Open Theory
 authors:
   - joanalnu
 ---
